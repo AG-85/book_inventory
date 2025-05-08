@@ -5,7 +5,6 @@ import src.book_inventory.inventory as inventory
 import pytest
 
 
-
 @pytest.fixture
 def inventory_data():
     book_inventory = [
@@ -24,6 +23,7 @@ def inventory_data():
             "copies": 10
         }]
     return book_inventory
+
 
 def test_add_book_success(inventory_data):
     title = "Database"
