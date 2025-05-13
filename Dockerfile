@@ -5,4 +5,4 @@ WORKDIR /app
 
 COPY src/book_inventory/inventory.py .
 
-CMD ["python", "app.py"]
+CMD ["python3", "inventory.py"]
