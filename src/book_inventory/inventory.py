@@ -113,7 +113,7 @@ def remove_out_of_stock(book_inventory):
     return [book for book in book_inventory if book["copies"] > 0]
 
 
-add_book()
+add_book(book_inventory, "Python", "1234", 10.99, 3)
 
 
 
