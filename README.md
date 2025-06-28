@@ -1,9 +1,6 @@
-👩‍💻 About Me
+Hi! I'm Ambikha, a QA Engineer with 10+ years of experience in software testing. While I have a strong foundation in manual testing, my primary focus is on test automation, DevOps practices, and AI-driven testing solutions.
 
-Ambikha Gowrishankar
-QA Engineer with 10+ years of experience, now expanding into automation, Python scripting, infrastructure, and system testing. This project is part of my personal portfolio as I transition into QA leadership and production engineering roles.
-
-🔗 LinkedIn
+I'm passionate about building scalable, efficient automation frameworks and integrating AI into QA to optimize testing processes.
 
 # 📚 Book Inventory – Python QA Portfolio Project
 
