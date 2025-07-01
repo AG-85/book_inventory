@@ -18,7 +18,7 @@ This project simulates a simple book inventory management system using Python di
 
   
 📁 Folder Structure
-
+```
 book_inventory/
 ├── src/book_inventory/         # Core logic
 │   └── inventory.py
@@ -27,7 +27,7 @@ book_inventory/
 ├── README.md                   # This file
 ├── pyproject.toml              # Poetry project setup
 └── poetry.lock
-
+```
 
 
 
